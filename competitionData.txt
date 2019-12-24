@@ -1,0 +1,2 @@
+I did not upload the competition data since it is the same for everyone, and the file was too big.
+I am assuming that the judge/grader will have the original files when they check
